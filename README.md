@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/Awais007khan/Awais007khan/blob/main/2109963.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Awais khan</h1>
 <h3 align="center">A passionate Web-developer from Pakistan</h3>
 
